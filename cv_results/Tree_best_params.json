@@ -1,0 +1,1 @@
+{"schema":{"fields":[{"name":"max_depth","type":"integer"}],"pandas_version":"1.4.0"},"data":[{"max_depth":10}]}

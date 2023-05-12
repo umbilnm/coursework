@@ -1,0 +1,1 @@
+{"schema":{"fields":[{"name":"criterion","type":"string"},{"name":"max_depth","type":"integer"},{"name":"max_features","type":"string"},{"name":"n_estimators","type":"integer"}],"pandas_version":"1.4.0"},"data":[{"criterion":"gini","max_depth":8,"max_features":"sqrt","n_estimators":300}]}
