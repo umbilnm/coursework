@@ -3,4 +3,13 @@ data
 razmetka
 catboost_info
 normalized.json
-
+embeddings try.ipynb
+navec1
+meta.json
+normalized.json
+vocab.bin
+pq.bin
+Untitled.ipynb
+optuna.ipynb
+.*.swp
+.*.swo
